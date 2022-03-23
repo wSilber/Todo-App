@@ -11,7 +11,7 @@ This todo app allows users to create and maintain their own tasks in exchange fo
 ![Example GIF](https://github.com/wSilber/Todo-App/blob/main/example.gif)
 
 ### How can I use it?
-This app can be accessed through [https://williamsilberste.in/portfolio/todo-app](https://williamsilberste.in/portfolio/todo-app). METAMASK IS REQUIRED. The contract methods for creating and completing todos are also accessible publically meaning that anyone can create their own todo app using these contract as a framework.
+This app can be accessed through ~~[https://williamsilberste.in/portfolio/todo-app](https://williamsilberste.in/portfolio/todo-app)~~. METAMASK IS REQUIRED. The contract methods for creating and completing todos are also accessible publically meaning that anyone can create their own todo app using these contract as a framework.
 
 ### Contracts
 Todo app: [0x6df098e5CF10D494fBF0EFAE1511d0D354b12263](https://ropsten.etherscan.io/address/0x6df098e5cf10d494fbf0efae1511d0d354b12263) \
